@@ -1,4 +1,3 @@
-C:\Users\opilane\source\repos\riigipyha\riigipyha\riigipyha\obj\Debug\netstandard2.0\riigipyha.csprojAssemblyReference.cache
 C:\Users\opilane\source\repos\riigipyha\riigipyha\riigipyha\obj\Debug\netstandard2.0\aastapaev.xaml.g.cs
 C:\Users\opilane\source\repos\riigipyha\riigipyha\riigipyha\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\opilane\source\repos\riigipyha\riigipyha\riigipyha\obj\Debug\netstandard2.0\MainPage.xaml.g.cs

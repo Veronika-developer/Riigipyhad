@@ -14,5 +14,10 @@ namespace riigipyha
         {
             InitializeComponent();
         }
+        async void whichOne()
+        {
+            string action = await DisplayActionSheet("Mida avada?", "Cancel", null, "Uusaasta", "Iseseisvuspäev", "Suur reede", "Ülestõusmispühade",
+                "Kevadpüha", "Nelipühade", "Jaanipäev", "Jõululaupäev", "Esimene jõulupüha", "Teine jõulupüha");
+        }
     }
 }

@@ -463,3 +463,5 @@ C:\Users\opilane\source\repos\riigipyha\riigipyha\riigipyha.Android\obj\Debug\90
 C:\Users\opilane\source\repos\riigipyha\riigipyha\riigipyha.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\opilane\source\repos\riigipyha\riigipyha\riigipyha.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\opilane\source\repos\riigipyha\riigipyha\riigipyha.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\opilane\source\repos\riigipyha\riigipyha\riigipyha.Android\obj\Debug\90\res\drawable\uusaasta.jpg
+C:\Users\opilane\source\repos\riigipyha\riigipyha\riigipyha.Android\obj\Debug\90\res\drawable\iseseisv.jpg
