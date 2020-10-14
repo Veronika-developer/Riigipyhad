@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha.Android\\riigipyha.Android.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha.Android\\riigipyha.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha.Android\\riigipyha.Android.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha.Android\\riigipyha.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha.Android\\riigipyha.Android.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha.Android\\riigipyha.Android.csproj",
         "projectName": "riigipyha.Android",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha.Android\\riigipyha.Android.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha.Android\\riigipyha.Android.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha.Android\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha\\riigipyha.csproj": {
-                "projectPath": "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha\\riigipyha.csproj"
+              "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha\\riigipyha.csproj": {
+                "projectPath": "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha\\riigipyha.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha\\riigipyha.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha\\riigipyha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha\\riigipyha.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha\\riigipyha.csproj",
         "projectName": "riigipyha",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha\\riigipyha.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha\\riigipyha.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

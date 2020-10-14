@@ -16,5 +16,10 @@ namespace riigipyha
         {
             InitializeComponent();
         }
+
+        private async void Button_Clicked(object sender, EventArgs e)
+        {
+            await label1.RelRotateTo(360, 1000);
+        }
     }
 }

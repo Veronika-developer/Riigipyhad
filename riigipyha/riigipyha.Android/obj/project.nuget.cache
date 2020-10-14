@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "snp5mFXtJosE0X4mHuNGZqz8AX5JWAQMIcSA4BgRFO9U/thS+cMsmshkX/bmAOAqlxNfFFa7JVTkXoJG5vQIYg==",
+  "dgSpecHash": "b/UUilq2LuY5NCNKXELvJwihnA0W4gkKGtSLwgY296tcR5reuxndaON80abTLKXbgsGUEaAAmlNTxPgLyihLIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha.Android\\riigipyha.Android.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha.Android\\riigipyha.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

@@ -4,10 +4,14 @@
              Title="Teine jõulupüha"
              x:Class="riigipyha.teinejoulu">
     <ContentPage.Content>
-        <StackLayout>
+        <AbsoluteLayout>
+            <Image Source="teinejoulu.jpg" AbsoluteLayout.LayoutBounds="15, 15, 200, 200" />
             <Label Text="26. detsember 2021"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+                AbsoluteLayout.LayoutBounds="220, 25, 70, 20" />
+            <Label Text="Teine jõulupüha"
+                AbsoluteLayout.LayoutBounds="220, 40, 120, 50" />
+            <Label Text="Pärast Eesti iseseisvuse taastamist on esimene ja teine jõulupüha (25. ja 26. detsember) riigipühad ja puhkepäevad, alates 2005. aastast ka jõululaupäev. Jõulukombestikku mõjutab järjest rohkem rahvusvaheline traditsioon."
+                AbsoluteLayout.LayoutBounds="15, 230, 350, 50" />
+        </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>

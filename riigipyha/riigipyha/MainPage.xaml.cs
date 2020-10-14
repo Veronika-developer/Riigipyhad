@@ -8,7 +8,7 @@ using Xamarin.Forms;
 
 namespace riigipyha
 {
-    public partial class MainPage : TabbedPage
+    public partial class MainPage : TabbedPage 
     {
         public MainPage()
         {

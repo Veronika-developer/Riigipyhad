@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "McZ3UMujDPFZZrx30ptaiGZ0qxLUPCjIa6aO3zsEYiFHXmAiRmjbXvN32qzfaOF8LffUm4PTtHEpvqlf+orRzA==",
+  "dgSpecHash": "Frfmap6O3zYqTTzUZPy7x03kLJKfXKFHS7U1x04XvgOPM0RwvnobAt7MqEYsX1WQPGbO62wlIhrAv0R4y2XkuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha\\riigipyha.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha\\riigipyha.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

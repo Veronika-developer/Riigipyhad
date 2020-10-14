@@ -984,11 +984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha.iOS\\riigipyha.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha.iOS\\riigipyha.iOS.csproj",
       "projectName": "riigipyha.iOS",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha.iOS\\riigipyha.iOS.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha.iOS\\riigipyha.iOS.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha.iOS\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1009,8 +1009,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha\\riigipyha.csproj": {
-              "projectPath": "C:\\Users\\opilane\\source\\repos\\riigipyha\\riigipyha\\riigipyha\\riigipyha.csproj"
+            "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha\\riigipyha.csproj": {
+              "projectPath": "C:\\Users\\opilane\\source\\repos\\Jefimova\\riigi\\riigipyha\\riigipyha\\riigipyha.csproj"
             }
           }
         }

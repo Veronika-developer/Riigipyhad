@@ -10,8 +10,10 @@
                 AbsoluteLayout.LayoutBounds="220, 25, 70, 20" />
             <Label Text="UUSAASTA"
                 AbsoluteLayout.LayoutBounds="220, 40, 70, 20" />
-            <Label Text="Uusaasta on püha, mil tähistatakse uue kalendriaasta algust."
+            <Label x:Name="label1" Text="Uusaasta on püha, mil tähistatakse uue kalendriaasta algust."
                 AbsoluteLayout.LayoutBounds="15, 230, 350, 50" />
+            <Button Text="Klõpsake nuppu" Clicked="Button_Clicked" 
+                    AbsoluteLayout.LayoutBounds="110, 300, 150, 50"/>
         </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>

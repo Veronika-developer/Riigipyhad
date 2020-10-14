@@ -4,10 +4,16 @@
              Title="Jõululaupäev"
              x:Class="riigipyha.joulu">
     <ContentPage.Content>
-        <StackLayout>
+        <AbsoluteLayout>
+            <Image x:Name="image" Source="joilu.jpg" AbsoluteLayout.LayoutBounds="15, 15, 200, 200" />
             <Label Text="24. detsember 2021"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+                AbsoluteLayout.LayoutBounds="220, 25, 70, 20" />
+            <Label Text="Jõululaupäev"
+                AbsoluteLayout.LayoutBounds="220, 40, 90, 50" />
+            <Label Text="Päev enne esimest jõulupüha. Eestis on see päev riigipüha."
+                AbsoluteLayout.LayoutBounds="15, 230, 350, 50" />
+            <Button Text="Klõpsake nuppu" Clicked="Button_Clicked"
+                    AbsoluteLayout.LayoutBounds="110, 300, 150, 50"/>
+        </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>
