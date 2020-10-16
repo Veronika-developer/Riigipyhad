@@ -4,15 +4,17 @@
              Title="Suur reede"
              x:Class="riigipyha.suur">
     <ContentPage.Content>
-        <AbsoluteLayout>
-            <Image Source="suurreede.jpg" AbsoluteLayout.LayoutBounds="15, 15, 200, 200" />
-            <Label Text="02. aprill 2021"
+        <AbsoluteLayout BackgroundColor="#ff99cc">
+            <Image x:Name="image" Source="suurreede.jpg" AbsoluteLayout.LayoutBounds="15, 15, 200, 200" />
+            <Label Text="02. aprill 2021" TextColor="White" FontSize="15"
                 AbsoluteLayout.LayoutBounds="220, 25, 70, 20" />
-            <Label Text="Suur reede"
-                AbsoluteLayout.LayoutBounds="220, 40, 70, 20" />
+            <Label Text="Suur reede" TextColor="White" FontSize="20"
+                AbsoluteLayout.LayoutBounds="220, 40, 120, 35" />
             <Label Text="Suur reede on kristlik püha, mil tähistatakse Jeesus Kristuse ristilöömist ja surma Kolgata mäel. 
-                   See kuulub kokku rea teiste pühadega, mis seostuvad Jeesuse eluga."
-                AbsoluteLayout.LayoutBounds="15, 230, 350, 50" />
+                   See kuulub kokku rea teiste pühadega, mis seostuvad Jeesuse eluga." TextColor="White" FontSize="14"
+                AbsoluteLayout.LayoutBounds="15, 230, 350, 100" />
+            <Button Text="Klõpsake nuppu" Clicked="Button_Clicked"
+                    AbsoluteLayout.LayoutBounds="110, 300, 150, 50"/>
         </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>

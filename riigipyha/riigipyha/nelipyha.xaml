@@ -4,14 +4,14 @@
              Title="Nelipühade"
              x:Class="riigipyha.nelipyha">
     <ContentPage.Content>
-        <AbsoluteLayout>
+        <AbsoluteLayout BackgroundColor="#990033">
             <Image Source="nelipyha.jpg" AbsoluteLayout.LayoutBounds="15, 15, 200, 200" />
-            <Label Text="23. mai 2021"
+            <Label Text="23. mai 2021" TextColor="White" FontSize="15"
                 AbsoluteLayout.LayoutBounds="220, 25, 70, 20" />
-            <Label Text="Nelipüha"
-                AbsoluteLayout.LayoutBounds="220, 40, 70, 20" />
+            <Label Text="Nelipüha" TextColor="White" FontSize="20"
+                AbsoluteLayout.LayoutBounds="220, 40, 100, 30" />
             <Label Text="Kristlik püha, millega mälestatakse Püha Vaimu laskumist apostlitele 50. päeval pärast Jeesuse Kristuse ülestõusmist. Ajaliselt on see 10 päeva pärast taevaminemispüha. See on kiriku sünnipäev."
-                AbsoluteLayout.LayoutBounds="15, 230, 350, 80" />
+                TextColor="White" FontSize="14" AbsoluteLayout.LayoutBounds="15, 230, 350, 80" />
         </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>

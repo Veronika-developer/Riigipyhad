@@ -4,14 +4,16 @@
              Title="Esimene jõulupüha"
              x:Class="riigipyha.esimenejoulu">
     <ContentPage.Content>
-        <AbsoluteLayout>
-            <Image Source="esimenejoulu.jpg" AbsoluteLayout.LayoutBounds="15, 15, 200, 200" />
-            <Label Text="25. detsember 2021"
+        <AbsoluteLayout BackgroundColor="#b30000">
+            <Image x:Name="image" Source="esimenejoulu.jpg" AbsoluteLayout.LayoutBounds="15, 15, 200, 200" />
+            <Label Text="25. detsember 2021" TextColor="White" FontSize="15"
                 AbsoluteLayout.LayoutBounds="220, 25, 70, 20" />
-            <Label Text="Esimene jõulupüha"
+            <Label Text="Esimene jõulupüha" TextColor="White" FontSize="20"
                 AbsoluteLayout.LayoutBounds="220, 40, 120, 50" />
             <Label Text="Pärast Eesti iseseisvuse taastamist on esimene ja teine jõulupüha (25. ja 26. detsember) riigipühad ja puhkepäevad, alates 2005. aastast ka jõululaupäev."
-                AbsoluteLayout.LayoutBounds="15, 230, 350, 50" />
+                TextColor="White" FontSize="14" AbsoluteLayout.LayoutBounds="15, 230, 350, 50" />
+            <Button Text="Klõpsake nuppu" Clicked="Button_Clicked"
+                    AbsoluteLayout.LayoutBounds="110, 300, 150, 50"/>
         </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>

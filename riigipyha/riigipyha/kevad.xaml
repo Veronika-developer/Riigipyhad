@@ -4,14 +4,17 @@
              Title="Kevadpüha"
              x:Class="riigipyha.kevad">
     <ContentPage.Content>
-        <AbsoluteLayout>
-            <Image Source="kevadpyha.jpg" AbsoluteLayout.LayoutBounds="15, 15, 200, 200" />
-            <Label Text="1. mai 2021"
+        <AbsoluteLayout x:Name="absoluteLayout" BackgroundColor="#29a366">
+            <Image x:Name="image" Source="kevadpyha.jpg" AbsoluteLayout.LayoutBounds="15, 15, 200, 200" />
+            <Label Text="1. mai 2021" TextColor="White" FontSize="15"
                 AbsoluteLayout.LayoutBounds="220, 25, 70, 20" />
-            <Label Text="Kevadpüha"
-                AbsoluteLayout.LayoutBounds="220, 40, 70, 20" />
+            <Label Text="Kevadpüha" TextColor="White" FontSize="20"
+                AbsoluteLayout.LayoutBounds="220, 40, 100, 30" />
             <Label Text="Kevadpüha on Eesti riigipüha, mida peetakse 1. mail. Pühaga tähistatakse kevade saabumist."
+                   TextColor="White" FontSize="14"
                 AbsoluteLayout.LayoutBounds="15, 230, 350, 50" />
+            <Button Text="Klõpsake nuppu" Clicked="Button_Clicked"
+                    AbsoluteLayout.LayoutBounds="110, 300, 150, 50"/>
         </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>

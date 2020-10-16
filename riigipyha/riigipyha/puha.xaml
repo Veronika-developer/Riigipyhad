@@ -4,14 +4,14 @@
              Title="ülestõusmispühade"
              x:Class="riigipyha.puha">
     <ContentPage.Content>
-        <AbsoluteLayout>
+        <AbsoluteLayout BackgroundColor="#80391e">
             <Image Source="ulestousmispyhade.jpg" AbsoluteLayout.LayoutBounds="15, 15, 200, 200" />
-            <Label Text="04. aprill 2021"
+            <Label Text="04. aprill 2021" TextColor="White" FontSize="15"
                 AbsoluteLayout.LayoutBounds="220, 25, 70, 20" />
-            <Label Text="Ülestõusmispühade 1. püha"
-                AbsoluteLayout.LayoutBounds="220, 40, 135, 50" />
-            <Label Text="Liikuv püha, esimene täiskuu pühapäev pärast kevadist pööripäeva."
-                AbsoluteLayout.LayoutBounds="15, 230, 350, 50" />
+            <Label Text="Ülestõusmispühade 1. püha" TextColor="White" FontSize="15"
+                AbsoluteLayout.LayoutBounds="220, 45, 145, 100" />
+            <Label Text="Liikuv püha, esimene täiskuu pühapäev pärast kevadist pööripäeva." TextColor="White" FontSize="14"
+                AbsoluteLayout.LayoutBounds="15, 230, 350, 100" />
         </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>

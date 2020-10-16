@@ -16,5 +16,11 @@ namespace riigipyha
         {
             InitializeComponent();
         }
+
+        private async void Button_Clicked(object sender, EventArgs e)
+        {
+            image.Opacity = 0;
+            await image.FadeTo(1, 4000);
+        }
     }
 }

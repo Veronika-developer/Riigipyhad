@@ -4,15 +4,17 @@
              Title="Aasta paev"
              x:Class="riigipyha.aastapaev">
     <ContentPage.Content>
-        <AbsoluteLayout>
-            <Image Source="iseseisv.jpg" AbsoluteLayout.LayoutBounds="15, 15, 200, 200" />
-            <Label Text="24. veebruar 2021"
+        <AbsoluteLayout BackgroundColor="#44bcd8">
+            <Image x:Name="image" Source="iseseisv.jpg" Opacity="0" AbsoluteLayout.LayoutBounds="15, 15, 200, 200" />
+            <Label Text="24. veebruar 2021" TextColor="White" FontSize="15"
                 AbsoluteLayout.LayoutBounds="220, 25, 150, 20" />
-            <Label Text="Iseseisvuspäev, Eesti Vabariigi aastapäev"
-                AbsoluteLayout.LayoutBounds="220, 40, 150, 40" />
-            <Label Text="Eesti Vabariigi aastapäev on 24. veebruaril, 
-                   millega tähistatakse Eesti Vabariigi väljakuulutamist 1918. aasta 24. veebruaril."
+            <Label Text="Iseseisvuspäev, Eesti Vabariigi aastapäev" TextColor="White" FontSize="20"
+                AbsoluteLayout.LayoutBounds="220, 40, 150, 80" />
+            <Label Text="Eesti Vabariigi aastapäev on 24. veebruaril, millega tähistatakse Eesti Vabariigi väljakuulutamist 1918. aasta 24. veebruaril."
+                   TextColor="White" FontSize="14"
                 AbsoluteLayout.LayoutBounds="15, 230, 350, 50" />
+            <Button Text="Klõpsake nuppu" Clicked="Button_Clicked" 
+                    AbsoluteLayout.LayoutBounds="110, 300, 150, 50"/>
         </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>

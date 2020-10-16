@@ -16,5 +16,12 @@ namespace riigipyha
         {
             InitializeComponent();
         }
+
+        private async void Button_Clicked(object sender, EventArgs e)
+        {
+            double radius = Math.Min(absoluteLayout.Width, absoluteLayout.Height) / 2;
+            image.AnchorY = radius / image.Height;
+            await image.RotateTo(360, 2000);
+        }
     }
 }

@@ -4,14 +4,14 @@
              Title="Jaanipüha"
              x:Class="riigipyha.jaani">
     <ContentPage.Content>
-        <AbsoluteLayout>
+        <AbsoluteLayout BackgroundColor="#edb879">
             <Image Source="jaanipaev.jpg" AbsoluteLayout.LayoutBounds="15, 15, 200, 200" />
-            <Label Text="24. juuni 2021"
+            <Label Text="24. juuni 2021" TextColor="White" FontSize="15"
                 AbsoluteLayout.LayoutBounds="220, 25, 70, 20" />
-            <Label Text="Jaanipäev"
-                AbsoluteLayout.LayoutBounds="220, 40, 90, 20" />
+            <Label Text="Jaanipäev" TextColor="White" FontSize="20"
+                AbsoluteLayout.LayoutBounds="220, 40, 120, 30" />
             <Label Text="Jaanipäev on Eestis 24.juunil tähistatav püha. 24.juunile eelnevat 23.juuni päeva nimetatakse jaanilaupäevaks ja nendevahelist ööd jaaniööks, seda tähistatakse Eestis."
-                AbsoluteLayout.LayoutBounds="15, 230, 346, 150" />
+                FontSize="14" AbsoluteLayout.LayoutBounds="15, 230, 346, 150" />
         </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>
